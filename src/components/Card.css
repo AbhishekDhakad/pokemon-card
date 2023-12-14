@@ -1,0 +1,15 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 16px;
+    width: 200px;
+}
+
+.card ul {
+    list-style: none;
+}
+  
+.card li {
+    margin-bottom: 4px;
+}
